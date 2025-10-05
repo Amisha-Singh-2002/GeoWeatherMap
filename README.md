@@ -10,7 +10,6 @@
 
 You can try the live app here: [Geo Weather Map](https://geo-weather-map-lemon.vercel.app/)
 
-*(Insert screenshot or GIF here to show the UI if you like)*
 
 ---
 
@@ -42,5 +41,4 @@ You can try the live app here: [Geo Weather Map](https://geo-weather-map-lemon.v
 
 ---
 
-## 📁 Project Structure (suggested)
 
